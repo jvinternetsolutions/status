@@ -16,7 +16,7 @@ status-website:
   cname: status.jvis.nl
   # baseUrl: /your-repo-name
   logoUrl: https://www.jvis.nl/wp-content/uploads/2019/11/logo.svg
-  name: Uptime monitor
+  name: ""
   introTitle: ""
   introMessage: ""
   navbar:
